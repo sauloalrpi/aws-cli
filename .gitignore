@@ -41,3 +41,6 @@ src/
 doc/source/aws_man_pages.json
 doc/source/reference
 doc/source/tutorial/services.rst
+
+.bashrc
+.bash_history
